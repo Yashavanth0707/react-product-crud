@@ -1,0 +1,805 @@
+{
+  "products": [
+    {
+      "ProductName": "shampoo",
+      "price": "15",
+      "discount": "5%",
+      "rating": "2",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "UserName": "",
+      "DOB": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "userName": "",
+      "DOB": "2023-05-08",
+      "Email": "jjjjjj@gmial.com",
+      "password": "kjkjkjk",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 2
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-10",
+      "Email": "jjjjjj@gmial.com",
+      "password": "jdkjk",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-03",
+      "Email": "jjjjjj@gmial.com",
+      "password": "sssss",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 5
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-10",
+      "Email": "jjjjjj@gmial.com",
+      "password": "zzzzzzz",
+      "role": "admin",
+      "Address": "",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "userName": "yash",
+      "DOB": "2023-05-17",
+      "Email": "jjjjjj@gmial.com",
+      "password": "sssssssss",
+      "role": "admin",
+      "Address": "shivmogga"
+    },
+    {
+      "id": 8,
+      "userName": "yash",
+      "DOB": "2023-05-24",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-25",
+      "Email": "jjjjjj@gmial.com",
+      "password": "dddddddddddd",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 9
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-16",
+      "Email": "jjjjjj@gmial.com",
+      "password": "zzzzzzzzzz",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 10
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-09",
+      "Email": "jjjjjj@gmial.com",
+      "password": "ddddddddd",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 11
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-16",
+      "Email": "jjjjjj@gmial.com",
+      "password": "sssssssssss",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 12
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-29",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 13
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-10",
+      "Email": "jjjjjj@gmial.com",
+      "password": "llllllll",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 14
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-16",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 15
+    },
+    {
+      "id": 16,
+      "userName": "yash",
+      "DOB": "2023-05-16",
+      "Email": "jjjjjj@gmial.com",
+      "password": "sssssssssss",
+      "role": "admin",
+      "Address": "shivmogga"
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-09",
+      "Email": "jjjjjj@gmial.com",
+      "password": "zzzzzzzzzzz",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 17
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-31",
+      "Email": "jjjjjj@gmial.com",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 18
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 19
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 20
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 21
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 22
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 23
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 24
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 25
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 26
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 27
+    },
+    {
+      "id": 28,
+      "userName": "yash",
+      "DOB": "2023-05-16",
+      "Email": "jjjjjj@gmial.com",
+      "password": "\\\\\\\\",
+      "role": "admin",
+      "Address": "shivmogga"
+    },
+    {
+      "userName": "yash",
+      "DOB": "2023-05-09",
+      "Email": "jjjjjj@gmial.com",
+      "password": "k",
+      "role": "admin",
+      "Address": "shivmogga",
+      "id": 29
+    },
+    {
+      "id": 30,
+      "userName": "yash",
+      "DOB": "2023-05-31",
+      "Email": "jjjjjj@gmial.com",
+      "password": "sssssssss",
+      "role": "admin",
+      "Address": "shivmogga"
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 31
+    },
+    {
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": "",
+      "id": 32
+    },
+    {
+      "userName": "yash",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": "",
+      "id": 33
+    },
+    {
+      "userName": "yash",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": "",
+      "id": 34
+    },
+    {
+      "id": 35,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 36,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 37,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 38,
+      "userName": "yash",
+      "DOB": "2023-05-16",
+      "Email": "jjjjjj@gmial.com",
+      "password": "kkkkkkkk",
+      "role": "admin",
+      "Address": "shivmogga"
+    },
+    {
+      "id": 39,
+      "userName": "yash",
+      "DOB": "2023-05-10",
+      "Email": "jjjjjj@gmial.com",
+      "password": "kkkkkkkkkk",
+      "role": "admin",
+      "Address": "shivmogga"
+    },
+    {
+      "id": 40,
+      "userName": "yash",
+      "DOB": "",
+      "Email": "jjjjjj@gmial.com",
+      "password": "kkkkkkkkkkk",
+      "role": "admin",
+      "Address": "shivmogga"
+    },
+    {
+      "id": 41,
+      "userName": "yash",
+      "DOB": "2023-05-24",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 42,
+      "userName": "yash",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 43,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 44,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 45,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 46,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 47,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 48,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 49,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 50,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 51,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 52,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 53,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 54,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 55,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 56,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 57,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 58,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 59,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 60,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 61,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 62,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 63,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 64,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 65,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 66,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 67,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 68,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 69,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 70,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 71,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 72,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 73,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 74,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 75,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 76,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 77,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 78,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 79,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    },
+    {
+      "id": 80,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 81,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 82,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 83,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 84,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 85,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "",
+      "Address": ""
+    },
+    {
+      "id": 86,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 87,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "admin",
+      "Address": ""
+    },
+    {
+      "id": 88,
+      "userName": "",
+      "DOB": "",
+      "Email": "",
+      "password": "",
+      "role": "user",
+      "Address": ""
+    }
+  ]
+}
